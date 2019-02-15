@@ -4,4 +4,4 @@ Setup dependencies
 - npm install 
 - npm start 
 - npm install express mongoose nodemon body-parser --save
-App runs at http://localhost:3000
+- App runs at http://localhost:3000
