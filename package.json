@@ -1,0 +1,25 @@
+{
+  "name": "rnem",
+  "version": "1.0.0",
+  "description": "REST, Node.js, Express, MongoDB",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "mongodb",
+    "mongoose"
+  ],
+  "author": "Simona French",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.12"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
